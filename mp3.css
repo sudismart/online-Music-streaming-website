@@ -1,0 +1,18 @@
+#indication{
+	background-color:#101010;
+	width:900px;
+	height: 75px;
+}
+#defaultbar{
+	width:800px;
+	padding-top:20px;
+	
+	background-color: #606060;
+	height: 15px;
+}
+#progressbar{
+	position:absolute;
+	width:100px;
+	height:15px ;
+	background-color: #3498db;
+}
